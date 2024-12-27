@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <ScaffoldingHeader />
-      <CollaborateSection /> {/* Add the new CollaborateSection component */}
+      <CollaborateSection /> 
     </div>
   );
 }

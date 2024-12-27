@@ -1,11 +1,11 @@
 .scaffolding-header {
   display: flex;
   flex-direction: column;
-  align-items: flex-start; /* Align items to the left */
-  padding: 20px; /* Adjust padding as needed */
-  max-width: 1200px; /* Ensure it matches the card container width */
-  margin: 0 auto; /* Center align the header */
-  text-align: left; /* Align the text to the left */
+  align-items: flex-start; 
+  padding: 20px; 
+  max-width: 1200px; 
+  margin: 0 auto;
+  text-align: left; 
 }
 
 
